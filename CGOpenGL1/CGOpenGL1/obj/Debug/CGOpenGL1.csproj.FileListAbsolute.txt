@@ -1,0 +1,8 @@
+D:\4 курс\Комп Графика\CGOpenGL1\CGOpenGL1\bin\Debug\CGOpenGL1.exe.config
+D:\4 курс\Комп Графика\CGOpenGL1\CGOpenGL1\obj\Debug\CGOpenGL1.csprojResolveAssemblyReference.cache
+D:\4 курс\Комп Графика\CGOpenGL1\CGOpenGL1\bin\Debug\CGOpenGL1.exe
+D:\4 курс\Комп Графика\CGOpenGL1\CGOpenGL1\bin\Debug\CGOpenGL1.pdb
+D:\4 курс\Комп Графика\CGOpenGL1\CGOpenGL1\bin\Debug\Tao.FreeGlut.dll
+D:\4 курс\Комп Графика\CGOpenGL1\CGOpenGL1\bin\Debug\Tao.OpenGl.dll
+D:\4 курс\Комп Графика\CGOpenGL1\CGOpenGL1\obj\Debug\CGOpenGL1.exe
+D:\4 курс\Комп Графика\CGOpenGL1\CGOpenGL1\obj\Debug\CGOpenGL1.pdb
